@@ -33,3 +33,5 @@ function CallRandom() {
   yPosObstacle = random([-200, (canvasYpos / 2 - heightObstacle)]); // When X position and Y position are zero , it is the centre
   xPosObstacle = xPosObstacle + random(500 , 525);
 }
+
+//Testing
